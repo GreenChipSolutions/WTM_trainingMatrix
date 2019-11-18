@@ -1,0 +1,10 @@
+{
+  "name": "sql",
+  "connector": "mssql",
+  
+  "host": "localhost",
+  "port": 1434,
+  "user": "wtm",
+  "password": "W@3rt1ght",
+  "database": "wtm_training"
+}
